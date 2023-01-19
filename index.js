@@ -1,1 +1,3 @@
-const a  = 4
+function foo() {
+    return 'hello'
+}
